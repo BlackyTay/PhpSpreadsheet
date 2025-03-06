@@ -1,6 +1,6 @@
 {
-    "name": "phpoffice/phpspreadsheet",
-    "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+    "name": "zhengqiang/phpspreadsheet",
+    "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine - Forked PhpSpreadsheet for PHP 7.2 compatibility",
     "keywords": [
         "PHP",
         "OpenXML",
@@ -35,6 +35,10 @@
         },
         {
             "name": "Adrien Crivelli"
+        },
+        {
+            "name": "Tay Zheng Qiang",
+            "email": "tay@outlook.my"
         }
     ],
     "scripts": {
